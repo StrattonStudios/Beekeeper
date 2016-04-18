@@ -1,7 +1,7 @@
 {
     "appInfo": {
-        "appToken": "342dbf84bbe51b4c34b974cb3f7a7cbe0769",
-        "consumerKey": "qyprdzYwcS96dT3P5Nz5jcc6Qv51zo",
-        "consumerSecret": "veB1e9yXShpXG5H9gpyAs6qEsrYtS8fDQs2V6D8w"
+        "appToken": "Enter your qbo apptoken",
+        "consumerKey": "Enter your qbo Consumer Key",
+        "consumerSecret": "Enter your consumer secret here"
     }
 }
