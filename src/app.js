@@ -29,8 +29,8 @@ app.listen(app.get('port'), function() {
 
 // INSERT YOUR CONSUMER_KEY AND CONSUMER_SECRET HERE
 
-var consumerKey    = 'qyprdzYwcS96dT3P5Nz5jcc6Qv51zo',
-    consumerSecret = 'veB1e9yXShpXG5H9gpyAs6qEsrYtS8fDQs2V6D8w'
+var consumerKey    = 'ENTER CONSUMERKEY',
+    consumerSecret = 'ENTER YOUR CONSUMERSECRET'
 
 app.get('/',function(req,res){
   res.render('/home.html');
